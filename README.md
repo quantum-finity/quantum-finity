@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quantum-finity and I am very happy to start my journey on github
 - 👀 I’m interested in coding sport and traveling
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate with likeminded people on projects using C++
 
 <!---
